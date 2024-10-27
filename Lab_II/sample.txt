@@ -1,0 +1,11 @@
+
+This is a sample text file.
+It contains multiple lines of text for demonstration purposes.
+
+Line 1: Hello, world!
+Line 2: This is a sample line of text.
+Line 3: Another line of text follows.
+Line 4: The quick brown fox jumps over the lazy dog.
+Line 5: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+End of file.
